@@ -1,7 +1,7 @@
 { 
-"version":"1.0",
+"version":"2.0",
 "title":"کاربر گرامی 🔥",
-"description":"جهت مطلع شدن از اپدیت این برنامه و دسترسی به برنامه های مود بیشتر در کانال اصلی ما عضو شوید ♥️",
-"download":"tg://resolve?domain=Vpn_",
-"buttonno":"no"
+"description":"جهت استفاده از این برنامه ابتدا وارد کانال پشتیبان ما شوید  و از برنامه های پسرعت مود شده بهره ببرید ♥️",
+"download":"tg://resolve?domain=Vpn_irany",
+"buttonno":"yes"
 }
